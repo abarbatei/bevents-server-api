@@ -40,7 +40,7 @@ If the TX is not found, the API returns `204 NO CONTENT`
 
 ***
 `/get-events/query?address=<smart_contract_address>`
-- address - the smart contract on-chain address that emitted the event 
+- *address* - the smart contract on-chain address that emitted the event 
 
 Response format
 ```
